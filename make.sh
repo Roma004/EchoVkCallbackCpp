@@ -1,0 +1,1 @@
+g++ main.cpp -o main -std=c++17 -lasyncd -levent -lssl -lqlibc -levent_openssl -lcurl && ./main
